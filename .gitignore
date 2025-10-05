@@ -1,0 +1,73 @@
+# Compiled binaries and object files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# Intermediate build files
+*.ilk
+*.pdb
+*.exp
+*.idb
+*.ipch
+*.pch
+*.sbr
+*.bsc
+*.res
+*.rc
+*.rsc
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.ncb
+*.aps
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+Debug/
+Release/
+x64/
+Win32/
+bin/
+obj/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CPackConfig.cmake
+_CPack_Packages/
+
+# Qt Creator files
+*.pro.user
+*.pri.user
+*.qrc.user
+*.ui.user
+*.moc
+*.obj.orig
+*.o.orig
+
+# Other common build systems or tools
+build/
+dist/
+tmp/
+log/
+temp/
+tree_plus_plus.txt
+
+# Editor/IDE specific files (e.g., Vim, Emacs, VS Code)
+*~
+*.swp
+.DS_Store
+.vscode/
+.idea/
